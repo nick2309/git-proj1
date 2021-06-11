@@ -1,2 +1,2 @@
-limits-microservices.minimum=3
-limits-microservices.maximum=997
+limits-microservices.minimum=4
+limits-microservices.maximum=996
